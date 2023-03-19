@@ -1,4 +1,4 @@
-import { AiFillHeart, AiFillStar, AiOutlineHeart } from "react-icons/ai";
+import { AiFillStar, AiOutlineHeart } from "react-icons/ai";
 
 const PropertyCard = () => {
   return (
