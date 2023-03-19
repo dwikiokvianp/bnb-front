@@ -4,7 +4,7 @@ const FloatingSearch = () => {
   return (
     <header>
       <div>
-        <div className="shadow-lg border m-4 rounded-3xl text-sm ">
+        <div className="shadow-lg border m-4 rounded-3xl text-sm md:hidden">
           <div className="flex items-center">
             <HiSearch className="text-xl text-slate-400 ml-2" />
             <div className="p-3">
