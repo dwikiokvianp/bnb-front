@@ -1,15 +1,6 @@
 import CompanyLogo from "../atoms/CompanyLogo";
 import SearchBarDesktop from "../Molecules/SearchBarDesktop";
-import {
-  AiOutlineUser,
-  BsGlobe,
-  CgMenu,
-  CgUser,
-  FaHouseUser,
-  FaUser,
-  MdVerifiedUser,
-  TbUserCircle,
-} from "react-icons/all";
+import { BsGlobe, CgMenu, TbUserCircle } from "react-icons/all";
 
 const UserNavigation = () => {
   return (

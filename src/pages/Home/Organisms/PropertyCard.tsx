@@ -23,9 +23,7 @@ const PropertyCard = () => {
             </div>
             <p>Berjarak 916 kilometer</p>
             <p>22-27 Mei</p>
-            <p>
-              <p className="font-bold inline"> Rp3.009.906</p> malam
-            </p>
+            <p className="font-bold inline"> Rp3.009.906</p> malam
           </div>
         </div>
       </section>
